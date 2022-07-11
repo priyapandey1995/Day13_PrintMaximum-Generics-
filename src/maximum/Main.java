@@ -3,7 +3,7 @@ package maximum;
 public class Main {
 
 	public static void main(String[] args) {
-		MaxInteger.toPrintMax(7, 10, 9);
+		MaxFloats.toPrintMax(1.1f, 2f, 10f);
 
 	}
 
